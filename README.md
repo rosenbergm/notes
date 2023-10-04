@@ -8,6 +8,8 @@ This repository contains my notes from the courses I'm taking/took at the Facult
   - [Handwritten notes](https://web.goodnotes.com/s/xXMzNMSrih0uRFzK70boPJ#page-2)
 - [NMAI057 Lineární algebra 1](1/NMAI057%20Lineární%20algebra%201.md)
   - [Handwritten notes](https://share.goodnotes.com/s/RI4yCZiDRToQGVRydkRYKz#page-2)
+- [NMAI069 Matematické dovednosti](1/NMAI069%20Matematické%20dovednosti.md)
+	- [Handwritten notes](https://share.goodnotes.com/s/3fuQ3U7hvCJk6HTGdNSlee#page-2)
 - [NPRG030 Programování 1](1/NPRG030%20Programování%20I.md)
 - [NPRG062 Algoritmizace](1/NPRG062%20Algoritmizace.md)
 - [NSWI141 Úvod do počítačových sítí](1/NSWI141%20Úvod%20do%20počítačových%20sítí.md)
