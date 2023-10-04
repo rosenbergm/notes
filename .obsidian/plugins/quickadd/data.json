@@ -4,7 +4,7 @@
       "id": "b399b1c7-6d54-4a2f-9312-6c842d6e449e",
       "name": "commit and push",
       "type": "Macro",
-      "command": false,
+      "command": true,
       "macroId": "b8f5b294-5a37-4f76-8d27-b4fefc16e7a5"
     }
   ],
