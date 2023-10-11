@@ -1,2 +1,0 @@
-- https://ksvi.mff.cuni.cz/~holan/
-- 

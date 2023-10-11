@@ -1,0 +1,59 @@
+# NSWI120 Principy počítačů
+
+- Pavel Jezek, pavel.jezek@d3s.mff.cuni.cz
+> nejsme nějací čvuťáci
+
+- zkouska
+	- d3s.mff.cuni.cz/~jezek
+- plus self-assessment ulohy
+	- mohou nam pomoci u zkousky
+	- odevzdavani do teams
+- procesor (cpu)
+	- je programovatelny - pevne dana mnozina prikazu od vyrobce, ale my muzem rict, co ma udelat
+	- poradi? kodova pamet (code memory)
+		- pripojena k procesoru (nejakou komunikacni linkou)
+		- zapis delame externe, procesor jenom cte => harwardska architektura pocitace
+	- potrebujem nekde uchovat mezivysledkt -> datova pamet (data memory)
+		- zase pripojeny k cpu -> RW s CPU
+	- input a output -> I/O
+		- periferie pocitace
+	- tohle cely je harwardska arch. poc.
+	- prvni pocitac, ktery mel tuhle arch.
+		- od matematika Charlese Babbage -> analytical engine z roku 1837
+			- jak vyresil problem penez? bohata a chytra pritelkyne (Ada Lovelace - dcera Lorda Byrona), zajimala se o jeho vynalezy, napsala manual v Analytical Enginu
+			- prispela i necim jinym a lepsim - muzem vzit pismenko a zakodujeme ho do cisla a naopak -> 
+- analogovy prenos - nepresnost sumu
+	- nejake dva invervaly, nesmi se prekryvat, aby se do nich sum vesel
+	- proste klasicky vyhody/nevyhody analog.
+- oproti tomu digitalni prenos
+	- bud 0 nebo 1, dva prenosy
+	- 0 nebo 1 -> bit (b)
+	- mame hranici - co je nad ni je 1, co pod je 0
+		- hranice jsou vetsinou 2 napeti - nad x je 1, pod y je 0
+	- timing diagram, mista mezi 0/1 1/0 kdy to postupne jde k druhe hodnote
+		- seriovy digitalni prenos
+	- referencni napeti - zem (ground)
+	- jiny pristup
+		- dva vodice - data1, data2
+			- posilani opacnych dat na vodicich
+			- bude se merit napeti mezi dvema dat. vodici - musi se ustanovit konvence JAK
+			- data1-data2
+				- rozdil kladny? 1, jinak 0
+			- => diferencialni prenos
+- bit s nejmensi vahou je least significant bit (LSb)
+- ten opacny je MSb (most significant bit)
+- musime rict, v jakem poradi ty bity budem posilat -> resime bit order
+	- MSb first
+	- LSb first
+- naucit se mocniny dvojky lol
+	- 2^0 az 2^32
+- dve jednicky vs jedna dlouha jednicky
+	- vic metod
+	- pevna delka bitu
+		- bit ma pevnou delku casu $\delta$
+			- v polovine intervalu (kvuli osklivym mistum na prechodech)
+		- problem synchronizace - musi se dohodnout
+	- prenosova rychlost
+		- bits per second (bps)
+		- baud (symbols/second), ale co je symbol? cokoli, data, control character, atd.
+		- bps muze byt jiny nez rychlost v baudech
