@@ -18,3 +18,14 @@ The notes can be find in the sections below (sharable view-only links to Joplin 
 - [NSWI141 Úvod do počítačových sítí](https://notes.marrrt.in/shares/7SBDaz3VHW9SvCZyv4iaE0)
 - [NSWI120 Principy počítačů](https://notes.marrrt.in/shares/lEFRFX3aOTxk67mcFNjFtf)
 - [NPRG073 Programování v jazyce Rust](https://notes.marrrt.in/shares/thEXdu6Mi9IXLCSKeIGDRE)
+
+## Second semester
+
+- NMAI054 Matematická analýza 1
+  - [LECTURE Handwritten notes](https://share.goodnotes.com/s/77NsnrauNNZDp1QMqcWZ5B)
+  - [LAB Handwritten notes](https://share.goodnotes.com/s/iFk692BIliloJrQ85iFBAA)
+- NMAI058 Lineární algebra 2
+  - [LECTURE Handwritten notes](https://share.goodnotes.com/s/ogD8emCPxxh2jq5cl3ZOe7)
+  - [LAB Handwritten notes](https://share.goodnotes.com/s/ERW2JPNVZDHBQZy7V9halG)
+- NTIN060 Algoritmy a datové struktury 1
+  - [LAB Handwritten notes](https://share.goodnotes.com/s/JsejzCemvydUf4DX5j7GTJ)
